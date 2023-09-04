@@ -1,0 +1,165 @@
+.ejemplo {
+    border: 1px solid royalblue;
+    padding-left: 22px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+}
+
+.imagenes {
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+h1 {
+    border: 1px solid black;
+    padding-left: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.muestra {
+    border: 1px solid red;
+    margin-left: 25px;
+    margin-top: 35px;
+    padding-top: 10px;
+    padding-left: 15px;
+    height: 45px;
+    width: 100px;
+}
+
+.ajustW {
+    width: 550px;
+}
+
+.ajustWH {
+    width: 200px;
+    height: 600px;
+}
+
+.rara {
+    width: 500px;
+    height: 3000px;
+}
+
+
+
+/*---------------------Pagina 1----------------------------*/
+
+.descripcion1 {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.gore {
+    margin-left: 25%;
+    width: 500px;
+}
+
+.gore2 {
+    margin-left: 5%;
+    width: 930px;
+}
+
+.info1 {
+    text-align: justify;
+    margin: 35px;
+    color: blueviolet;
+    border: 3px solid blueviolet;
+    background-color: black;
+    padding: 10px;
+}
+
+/*---------------------Pagina 2----------------------------*/
+
+.descripcion2 {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.goreC {
+    margin-left: 25%;
+    width: 500px;
+}
+
+.info2 {
+    text-align: justify;
+    margin: 35px;
+    color: gold;
+    border: 3px solid blueviolet;
+    background-color: black;
+    padding: 10px;
+}
+
+.goreC2 {
+    margin-left: 5%;
+    width: 930px;
+}
+
+
+/*---------------------Pagina 3----------------------------*/
+
+.descripcion3 {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.shagaru {
+    margin-left: 25%;
+    width: 500px;
+}
+
+.shagaru2 {
+    margin-left: 5%;
+    width: 930px;
+}
+
+.info3 {
+    text-align: justify;
+    margin: 35px;
+    color: black;
+    background-color: gold;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+/*---------------------Pagina 4----------------------------*/
+
+.descripcion4 {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.shagaruE {
+    margin-left: 25%;
+    width: 500px;
+}
+
+.qurio {
+    margin-left: 25%;
+    margin-top: 30px;
+    width: 500px;
+}
+
+.info4 {
+    text-align: justify;
+    margin: 35px;
+    color: gray;
+    background-color: black;
+    padding: 10px;
+    border: 3px solid orange;
+}
+
+.infoextra {
+    text-align: justify;
+    margin: 35px;
+    color: white;
+    background-color: darkred;
+    padding: 10px;
+    border: 2px solid crimson;
+}
